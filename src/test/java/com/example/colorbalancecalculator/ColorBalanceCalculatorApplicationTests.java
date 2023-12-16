@@ -53,7 +53,7 @@ class ColorBalanceCalculatorApplicationTests {
 
         Assertions.assertNotNull(exception);
         Assertions.assertEquals("Each DNA sequence should only contain \"G, T, C, A\" characters (case insensitive), separated by a space." +
-                "</br> Lines should not contains any numbers.", exception.getMessage());
+                "</br> Lines should not contain any numbers.", exception.getMessage());
     }
 
     @Test
@@ -67,7 +67,7 @@ class ColorBalanceCalculatorApplicationTests {
 
         Assertions.assertNotNull(exception);
         Assertions.assertEquals("Each DNA sequence should only contain \"G, T, C, A\" characters (case insensitive), separated by a space." +
-                "</br> Lines should not contains any numbers.", exception.getMessage());
+                "</br> Lines should not contain any numbers.", exception.getMessage());
     }
 
     @Test
