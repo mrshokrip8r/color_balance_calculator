@@ -4,7 +4,7 @@ This project is a spring boot web application which recieves a file consisting o
 The source code can be find under the [src](src) directory. 
 Unit tests are provided in [test](src/test) directory.
 
-After cloning the project you can run the project by runnig [ColorBalanceCalculatorApplication.java](src/main/java/ColorBalanceCalculatorApplication).
+After cloning the project you can run the project by runnig [ColorBalanceCalculatorApplication.java](src/main/java/com/example/colorbalancecalculator/ColorBalanceCalculatorApplication.java)
 
 By visiting `http://localhost:8080/home` you can see the home page of the application. You can find a screen shot below.
 
