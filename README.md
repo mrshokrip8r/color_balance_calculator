@@ -22,7 +22,7 @@ The sequences below show a valid file content:
 If your file is valid by clicking on "Calculate" button, you can see the calculated Color-Balance of DNA sequences.
 Below you can see a screen shot of the output for the DNA sequences shown above.
 
-![output](screenshots/output.jpg)
+![output](screenshots/output.png)
 
 In case of uploading an invalid text file you will see an error message on the screen. Below is an example.
 
