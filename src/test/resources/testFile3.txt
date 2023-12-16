@@ -1,0 +1,4 @@
+GT T C A
+G T T C A
+A GT A C
+C T A CA

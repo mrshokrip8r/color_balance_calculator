@@ -1,0 +1,38 @@
+.main {
+	display: flex;
+	background-color: #cae4db;
+	flex-direction: column;
+	border-radius: 10px;
+	font-family: sans-serif;
+	padding: 15px;
+	gap: 15px;
+	margin: auto;
+	width: 75%;
+}
+
+.form {
+	display: flex;
+	gap: 10px;
+}
+
+.btn {
+	background-color: #00303f;
+	color: #fff;
+	border-color: #00303f;
+	border-radius: 5px;
+	margin-top: 10px;
+	min-width: 80px;
+}
+
+.err {
+	color: #f53240;
+}
+
+#file {
+  margin-right: 20px;
+}
+
+pre {
+	font-size: 15px;
+	margin-left: 5px;
+}
