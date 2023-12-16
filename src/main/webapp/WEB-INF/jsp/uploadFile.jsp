@@ -15,7 +15,7 @@
 <form method="post" action="/upload" enctype="multipart/form-data">
     <label for="file">Choose a text file:</label>
     <input type="file" name="file" id="file" accept=".txt">
-    <input class='btn' type="submit" value="Evaluate">
+    <input class='btn' type="submit" value="Calculate">
 </form>
 <button class='btn' onclick="removeFile()">Clear Output</button>
 </div>
